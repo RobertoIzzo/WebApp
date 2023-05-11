@@ -7,11 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="App.razor~RF266817af.TMP" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\RazorClassLibrary\RazorClassLibrary.csproj" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
 </Project>
