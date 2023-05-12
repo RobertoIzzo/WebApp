@@ -1,2 +1,2 @@
 # WebApp
-WebApp Blazor wasm + webapi + efcore + sqlite + identityprovider
+WebApp Blazor wasm + webapi +graphQl + Odata
